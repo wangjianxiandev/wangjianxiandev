@@ -1,6 +1,5 @@
-### Hey 👋
+### Welcome to my world 👋
 
-😄 Come on!
 <table>
     <tr>
         <td>
