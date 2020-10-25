@@ -1,8 +1,9 @@
 ### Welcome to my world 👋
 
+<div align=center>
+
 ### I'm wjxbless and welcome to my gitHub home page
 
-<div align=center>
 <table>
     <tr>
         <td>
@@ -12,7 +13,6 @@
         </td>
     </tr>
 </table>
-</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=wangjianxiandev&count_private=true&show_icons=true&hide=prs&hide_title=true)
 
@@ -24,6 +24,7 @@
 
 ### [联系方式 🥰](https://github.com/wangjianxiandev/wangjianxiandev/wiki)
 
+</div>
 
 
 
