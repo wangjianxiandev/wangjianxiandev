@@ -1,7 +1,6 @@
 <div align=center>
-### Welcome to my world 👋
 
-### I'm wjxbless and welcome to my gitHub home page
+### I'm wjxbless and welcome to my gitHub home page 👋 
 
 <table>
     <tr>
@@ -19,7 +18,6 @@
 ### [开源项目 🥧](https://github.com/wangjianxiandev?tab=projects)
 
 ### [博文列表 🔥](https://blog.csdn.net/qq_39424143)
-
 
 ### [联系方式 🥰](https://github.com/wangjianxiandev/wangjianxiandev/wiki)
 
