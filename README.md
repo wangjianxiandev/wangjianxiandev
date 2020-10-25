@@ -1,6 +1,6 @@
 <div align=center>
 
-### I'm wjxbless and welcome to my gitHub home page 👋 
+### I'm wjxbless and welcome to my GitHub home page 👋 
 
 <table>
     <tr>
