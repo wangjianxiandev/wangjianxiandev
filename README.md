@@ -1,34 +1,10 @@
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-
-    <style>
-        body{
-            background-color: #619ac3;
-        }
-        .c1{
-            width: 200px;
-            height: 200px;
-            border: 3px solid white;
-            border-radius: 50%;
-            overflow: hidden;
-        }
-    img{
-        width: 100%;
-    }
-
-
-    </style>
-
-</head>
-
-<div class="c1">
-    <img src="2.png" alt="">
-</div>
-
 ### I'm wjxbless and welcome to my gitHub home page 👋 
 
-<div class="c1">
+<div width: 200px;
+         height: 200px;
+            border: 3px solid white;
+            border-radius: 50%;
+            overflow: hidden;>
 <table>
     <tr>
         <td>
