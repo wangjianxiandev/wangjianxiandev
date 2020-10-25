@@ -1,10 +1,7 @@
+<div align=center>
+
 ### I'm wjxbless and welcome to my gitHub home page 👋 
 
-<div width: 200px;
-         height: 200px;
-            border: 3px solid white;
-            border-radius: 50%;
-            overflow: hidden;>
 <table>
     <tr>
         <td>
@@ -14,7 +11,6 @@
         </td>
     </tr>
 </table>
-</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=wangjianxiandev&count_private=true&show_icons=true&hide=prs&hide_title=true)
 
