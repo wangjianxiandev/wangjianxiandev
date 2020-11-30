@@ -10,12 +10,16 @@
     </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=wangjianxiandev&count_private=true&show_icons=true&hide=prs&hide_title=true)
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=gruvbox)
 
-### [开源项目 🥧](https://github.com/wangjianxiandev?tab=projects)
 
-### [博文列表 🔥](https://blog.csdn.net/qq_39424143)
+- 🔭 I’m currently working on ...
+#### [开源项目 🥧](https://github.com/wangjianxiandev?tab=projects)
 
+- 🌱 I’m currently learning ...
+#### [博文列表 🔥](https://blog.csdn.net/qq_39424143)
+
+- 📫 How to reach me: ...
 ### [联系方式 🥰](https://github.com/wangjianxiandev/wangjianxiandev/wiki)
 
 
